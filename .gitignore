@@ -39,7 +39,7 @@ userdata/tasklogs/*
 
 #IDE
 /.idea/
-
+*.iml
 /.settings/
 .classpath
 .project
