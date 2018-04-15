@@ -1,0 +1,4 @@
+CREATE USER geoipuser;
+CREATE DATABASE geoipdb;
+GRANT ALL PRIVILEGES ON DATABASE geoipdb TO geoipuser;
+GRANT ALL PRIVILEGES ON DATABASE geoipdb TO postgres
